@@ -2,7 +2,7 @@
 <img align="right" width="400"  src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif">
 
 ### Hello there, I'm Charlotte 👋
-#### I'm a fullstack developer based in Paris, France.
+#### I'm a fullstack web developer based in Paris, France.
 
 ---
 
