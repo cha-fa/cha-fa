@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**cha-fa/cha-fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400"  src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif">
 
-Here are some ideas to get you started:
+### Hello there, I'm Charlotte 👋
+#### I'm a fullstack developer based in Paris, France.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###### About me
+:school_satchel: I'm currently learning ReactJS at The Hacking Project bootcamp  
+:heart: I'm working with Ruby on Rails for over a year  
+:office: Before I started dreaming about lines of code, I worked as a customer success manager (and had no idea what a commit was).  
+
+###### Tech Stack
++ Ruby on Rails | Rspec | PostgreSQL
++ Javascript ES6 | ReactJS
++ HTML | CSS | Bootstrap
++ Git | VSCode | Docker | Heroku | CircleCI
+
+ :mailbox_with_mail: Reach me on <a href="https://www.linkedin.com/in/charlottefavier/">Linkedin</a>
