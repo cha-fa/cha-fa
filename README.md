@@ -1,5 +1,5 @@
 
-<img align="right" width="400"  src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif">
+<img align="right" width="400"  src="https://github.com/cha-fa/cha-fa/blob/main/readme_visual.gif">
 
 ### Hello there, I'm Charlotte 👋
 #### I'm a fullstack web developer based in Paris, France.
